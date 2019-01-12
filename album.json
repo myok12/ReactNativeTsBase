@@ -1,0 +1,851 @@
+{
+  "totalPages": 10,
+  "imageData": {
+    "icecream-shop": {
+      "index": 9,
+      "width": 2357,
+      "height": 1780,
+      "markers": [
+        {
+          "item": "ice cream",
+          "x": 739,
+          "y": 321,
+          "width": 182,
+          "height": 295,
+          "type": "rectangle"
+        },
+        {
+          "item": "vendor",
+          "x": 918,
+          "y": 86,
+          "width": 528,
+          "height": 786,
+          "type": "rectangle"
+        },
+        {
+          "item": "cones",
+          "x": 150,
+          "y": 189,
+          "width": 490,
+          "height": 342,
+          "type": "rectangle"
+        },
+        {
+          "item": "cups",
+          "x": 1550,
+          "y": 247,
+          "width": 625,
+          "height": 291,
+          "type": "rectangle"
+        },
+        {
+          "item": "cherry",
+          "x": 1170,
+          "y": 880,
+          "width": 322,
+          "height": 235,
+          "type": "rectangle"
+        },
+        {
+          "item": "chocolate",
+          "x": 1494,
+          "y": 880,
+          "width": 292,
+          "height": 228,
+          "type": "rectangle"
+        },
+        {
+          "item": "kiwi",
+          "x": 1787,
+          "y": 880,
+          "width": 383,
+          "height": 225,
+          "type": "rectangle"
+        },
+        {
+          "item": "pineapple",
+          "x": 856,
+          "y": 884,
+          "width": 313,
+          "height": 230,
+          "type": "rectangle"
+        },
+        {
+          "item": "coconut",
+          "x": 544,
+          "y": 886,
+          "width": 311,
+          "height": 233,
+          "type": "rectangle"
+        },
+        {
+          "item": "strawberry",
+          "x": 180,
+          "y": 882,
+          "width": 360,
+          "height": 230,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "sweets-booth": {
+      "index": 8,
+      "width": 1943,
+      "height": 2159,
+      "markers": [
+        {
+          "item": "popcorn",
+          "x": 1262,
+          "y": 1699,
+          "width": 318,
+          "height": 418,
+          "type": "rectangle"
+        },
+        {
+          "item": "cotton candy",
+          "x": 343,
+          "y": 1555,
+          "width": 384,
+          "height": 520,
+          "type": "rectangle"
+        },
+        {
+          "item": "ribbon",
+          "x": 909,
+          "y": 1392,
+          "width": 206,
+          "height": 263,
+          "type": "rectangle"
+        },
+        {
+          "item": "apple on a stick",
+          "x": 793,
+          "y": 1083,
+          "width": 155,
+          "height": 257,
+          "type": "rectangle"
+        },
+        {
+          "item": "bubble gums",
+          "x": 130,
+          "y": 1082,
+          "width": 160,
+          "height": 260,
+          "type": "rectangle"
+        },
+        {
+          "item": "lollipops",
+          "x": 1626,
+          "y": 577,
+          "width": 175,
+          "height": 322,
+          "type": "rectangle"
+        },
+        {
+          "item": "baloons",
+          "x": 52,
+          "y": 611,
+          "width": 737,
+          "height": 471,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "kids-room": {
+      "index": 7,
+      "width": 2425,
+      "height": 1730,
+      "markers": [
+        {
+          "item": "soccer",
+          "x": 736,
+          "y": 1016,
+          "width": 173,
+          "height": 155,
+          "type": "rectangle"
+        },
+        {
+          "item": "pillow",
+          "x": 256,
+          "y": 813,
+          "width": 162,
+          "height": 100,
+          "type": "rectangle"
+        },
+        {
+          "item": "blanket",
+          "x": 419,
+          "y": 820,
+          "width": 328,
+          "height": 114,
+          "type": "rectangle"
+        },
+        {
+          "item": "bed",
+          "x": 222,
+          "y": 926,
+          "width": 514,
+          "height": 150,
+          "type": "rectangle"
+        },
+        {
+          "item": "lamp",
+          "x": 943,
+          "y": 142,
+          "width": 332,
+          "height": 292,
+          "type": "rectangle"
+        },
+        {
+          "item": "teddy bear",
+          "x": 1665,
+          "y": 86,
+          "width": 232,
+          "height": 311,
+          "type": "rectangle"
+        },
+        {
+          "item": "clothes",
+          "x": 1871,
+          "y": 407,
+          "width": 174,
+          "height": 330,
+          "type": "rectangle"
+        },
+        {
+          "item": "clock",
+          "x": 279,
+          "y": 455,
+          "width": 153,
+          "height": 160,
+          "type": "rectangle"
+        },
+        {
+          "item": "rocking horse",
+          "x": 911,
+          "y": 755,
+          "width": 440,
+          "height": 350,
+          "type": "rectangle"
+        },
+        {
+          "item": "drawing",
+          "x": 1231,
+          "y": 497,
+          "width": 140,
+          "height": 171,
+          "type": "rectangle"
+        },
+        {
+          "item": "rug",
+          "x": 102,
+          "y": 1140,
+          "width": 680,
+          "height": 356,
+          "type": "rectangle"
+        },
+        {
+          "item": "toy car",
+          "x": 681,
+          "y": 1499,
+          "width": 253,
+          "height": 160,
+          "type": "rectangle"
+        },
+        {
+          "item": "sock",
+          "x": 101,
+          "y": 1538,
+          "width": 173,
+          "height": 136,
+          "type": "rectangle"
+        },
+        {
+          "item": "chair",
+          "x": 1021,
+          "y": 1231,
+          "width": 205,
+          "height": 383,
+          "type": "rectangle"
+        },
+        {
+          "item": "book",
+          "x": 1768,
+          "y": 1175,
+          "width": 243,
+          "height": 152,
+          "type": "rectangle"
+        },
+        {
+          "item": "desk",
+          "x": 1229,
+          "y": 1288,
+          "width": 532,
+          "height": 368,
+          "type": "rectangle"
+        },
+        {
+          "item": "race track",
+          "x": 1768,
+          "y": 1356,
+          "width": 589,
+          "height": 306,
+          "type": "rectangle"
+        },
+        {
+          "item": "drawers",
+          "x": 1672,
+          "y": 882,
+          "width": 235,
+          "height": 238,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "city-street": {
+      "index": 6,
+      "width": 2276,
+      "height": 1843,
+      "markers": [
+        {
+          "item": "traffic light",
+          "x": 854,
+          "y": 1280,
+          "width": 96,
+          "height": 380,
+          "type": "rectangle"
+        },
+        {
+          "item": "cross",
+          "x": 445,
+          "y": 1194,
+          "width": 375,
+          "height": 322,
+          "type": "rectangle"
+        },
+        {
+          "item": "stroller",
+          "x": 383,
+          "y": 1635,
+          "width": 173,
+          "height": 169,
+          "type": "rectangle"
+        },
+        {
+          "item": "jeep",
+          "x": 1833,
+          "y": 1348,
+          "width": 370,
+          "height": 193,
+          "type": "rectangle"
+        },
+        {
+          "item": "pickup truck",
+          "x": 1701,
+          "y": 1098,
+          "width": 441,
+          "height": 199,
+          "type": "rectangle"
+        },
+        {
+          "item": "car",
+          "x": 823,
+          "y": 1136,
+          "width": 340,
+          "height": 141,
+          "type": "rectangle"
+        },
+        {
+          "item": "bus",
+          "x": 49,
+          "y": 1075,
+          "width": 390,
+          "height": 194,
+          "type": "rectangle"
+        },
+        {
+          "item": "sports car",
+          "x": 47,
+          "y": 1386,
+          "width": 369,
+          "height": 145,
+          "type": "rectangle"
+        },
+        {
+          "item": "house",
+          "x": 1187,
+          "y": 861,
+          "width": 275,
+          "height": 280,
+          "type": "rectangle"
+        },
+        {
+          "item": "building",
+          "x": 903,
+          "y": 631,
+          "width": 249,
+          "height": 505,
+          "type": "rectangle"
+        },
+        {
+          "item": "airplane",
+          "x": 417,
+          "y": 104,
+          "width": 366,
+          "height": 146,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "playground": {
+      "index": 0,
+      "width": 2435,
+      "height": 1722,
+      "markers": [
+        {
+          "item": "seesaw",
+          "x": 36,
+          "y": 1236,
+          "width": 999,
+          "height": 273,
+          "type": "rectangle"
+        },
+        {
+          "item": "tennis racket",
+          "x": 1389,
+          "y": 723,
+          "width": 156,
+          "height": 279,
+          "type": "rectangle"
+        },
+        {
+          "item": "book",
+          "x": 222,
+          "y": 504,
+          "width": 117,
+          "height": 105,
+          "type": "rectangle"
+        },
+        {
+          "item": "slide",
+          "x": 1671,
+          "y": 225,
+          "width": 651,
+          "height": 345,
+          "type": "rectangle"
+        },
+        {
+          "item": "bucket",
+          "x": 2247,
+          "y": 1578,
+          "width": 117,
+          "height": 132,
+          "type": "rectangle"
+        },
+        {
+          "item": "sand castle",
+          "x": 1575,
+          "y": 1362,
+          "width": 195,
+          "height": 270,
+          "type": "rectangle"
+        },
+        {
+          "item": "ball",
+          "x": 162,
+          "y": 1503,
+          "width": 144,
+          "height": 156,
+          "type": "rectangle"
+        },
+        {
+          "item": "swing",
+          "x": 885,
+          "y": 324,
+          "width": 702,
+          "height": 426,
+          "type": "rectangle"
+        },
+        {
+          "item": "scooter",
+          "x": 495,
+          "y": 960,
+          "width": 254,
+          "height": 174,
+          "type": "rectangle"
+        },
+        {
+          "item": "cloud",
+          "x": 612,
+          "y": 0,
+          "width": 297,
+          "height": 123,
+          "type": "rectangle"
+        },
+        {
+          "item": "kite",
+          "x": 1197,
+          "y": 39,
+          "width": 141,
+          "height": 177,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "space": {
+      "index": 1,
+      "width": 2048,
+      "height": 2048,
+      "markers": [
+        {
+          "item": "planet",
+          "x": 1472,
+          "y": 224,
+          "width": 384,
+          "height": 392,
+          "type": "rectangle"
+        },
+        {
+          "item": "UFO",
+          "x": 1196,
+          "y": 164,
+          "width": 264,
+          "height": 136,
+          "type": "rectangle"
+        },
+        {
+          "item": "comet",
+          "x": 884,
+          "y": 332,
+          "width": 308,
+          "height": 232,
+          "type": "rectangle"
+        },
+        {
+          "item": "spaceship",
+          "x": 724,
+          "y": 776,
+          "width": 508,
+          "height": 232,
+          "type": "rectangle"
+        },
+        {
+          "item": "moon rover",
+          "x": 1552,
+          "y": 1044,
+          "width": 292,
+          "height": 240,
+          "type": "rectangle"
+        },
+        {
+          "item": "astronauts",
+          "x": 1332,
+          "y": 1100,
+          "width": 168,
+          "height": 128,
+          "type": "rectangle"
+        },
+        {
+          "item": "moon",
+          "x": 1208,
+          "y": 1280,
+          "width": 600,
+          "height": 512,
+          "type": "rectangle"
+        },
+        {
+          "item": "satellite",
+          "x": 932,
+          "y": 1392,
+          "width": 208,
+          "height": 213,
+          "type": "rectangle"
+        },
+        {
+          "item": "satellite dish",
+          "x": 156,
+          "y": 1028,
+          "width": 184,
+          "height": 196,
+          "type": "rectangle"
+        },
+        {
+          "item": "telescope",
+          "x": 684,
+          "y": 1132,
+          "width": 232,
+          "height": 152,
+          "type": "rectangle"
+        },
+        {
+          "item": "earth",
+          "x": 136,
+          "y": 1272,
+          "width": 768,
+          "height": 604,
+          "type": "rectangle"
+        },
+        {
+          "item": "sun",
+          "x": 192,
+          "y": 144,
+          "width": 552,
+          "height": 560,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "african-savanna": {
+      "index": 2,
+      "width": 803,
+      "height": 518,
+      "markers": [
+        {
+          "item": "buffalo",
+          "x": 310,
+          "y": 235,
+          "width": 113,
+          "height": 97,
+          "type": "rectangle"
+        },
+        {
+          "item": "macaw",
+          "x": 541,
+          "y": 168,
+          "width": 95,
+          "height": 92,
+          "type": "rectangle"
+        },
+        {
+          "item": "rhinoceros",
+          "x": 582,
+          "y": 247,
+          "width": 135,
+          "height": 94,
+          "type": "rectangle"
+        },
+        {
+          "item": "monkey",
+          "x": 697,
+          "y": 183,
+          "width": 98,
+          "height": 107,
+          "type": "rectangle"
+        },
+        {
+          "item": "hippopotamus",
+          "x": 653,
+          "y": 323,
+          "width": 138,
+          "height": 90,
+          "type": "rectangle"
+        },
+        {
+          "item": "crocodile",
+          "x": 570,
+          "y": 410,
+          "width": 181,
+          "height": 89,
+          "type": "rectangle"
+        },
+        {
+          "item": "flamingo",
+          "x": 425,
+          "y": 377,
+          "width": 105,
+          "height": 115,
+          "type": "rectangle"
+        },
+        {
+          "item": "elephant",
+          "x": 207,
+          "y": 339,
+          "width": 189,
+          "height": 154,
+          "type": "rectangle"
+        },
+        {
+          "item": "chameleon",
+          "x": 189,
+          "y": 181,
+          "width": 100,
+          "height": 88,
+          "type": "rectangle"
+        },
+        {
+          "item": "ostrich",
+          "x": 9,
+          "y": 365,
+          "width": 156,
+          "height": 144,
+          "type": "rectangle"
+        },
+        {
+          "item": "giraffe",
+          "x": 13,
+          "y": 236,
+          "width": 93,
+          "height": 127,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "dinosaurs": {
+      "index": 4,
+      "width": 1300,
+      "height": 854,
+      "markers": [
+        {
+          "item": "Pterodactyl",
+          "x": 937,
+          "y": 12,
+          "width": 286,
+          "height": 173,
+          "type": "rectangle"
+        },
+        {
+          "item": "Parasaurolophus",
+          "x": 3,
+          "y": 298,
+          "width": 176,
+          "height": 338,
+          "type": "rectangle"
+        },
+        {
+          "item": "Stegosaurus",
+          "x": 174,
+          "y": 531,
+          "width": 266,
+          "height": 267,
+          "type": "rectangle"
+        },
+        {
+          "item": "Triceratop",
+          "x": 440,
+          "y": 473,
+          "width": 309,
+          "height": 180,
+          "type": "rectangle"
+        },
+        {
+          "item": "Tyrannosaurus Rex",
+          "x": 777,
+          "y": 312,
+          "width": 482,
+          "height": 348,
+          "type": "rectangle"
+        },
+        {
+          "item": "volcano",
+          "x": 533,
+          "y": 335,
+          "width": 219,
+          "height": 144,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "kitchen": {
+      "index": 3,
+      "width": 1183,
+      "height": 1019,
+      "markers": [
+        {
+          "item": "pan",
+          "x": 932,
+          "y": 56,
+          "width": 168,
+          "height": 49,
+          "type": "rectangle"
+        },
+        {
+          "item": "pot",
+          "x": 172,
+          "y": 4,
+          "width": 134,
+          "height": 96,
+          "type": "rectangle"
+        },
+        {
+          "item": "faucet",
+          "x": 734,
+          "y": 444,
+          "width": 92,
+          "height": 122,
+          "type": "rectangle"
+        },
+        {
+          "item": "stove",
+          "x": 344,
+          "y": 616,
+          "width": 316,
+          "height": 352,
+          "type": "rectangle"
+        },
+        {
+          "item": "glove",
+          "x": 242,
+          "y": 384,
+          "width": 110,
+          "height": 138,
+          "type": "rectangle"
+        },
+        {
+          "item": "bowl",
+          "x": 90,
+          "y": 536,
+          "width": 112,
+          "height": 50,
+          "type": "rectangle"
+        },
+        {
+          "item": "kettle",
+          "x": 502,
+          "y": 430,
+          "width": 135,
+          "height": 149,
+          "type": "rectangle"
+        }
+      ]
+    },
+    "bathroom": {
+      "index": 5,
+      "width": 1300,
+      "height": 645,
+      "markers": [
+        {
+          "item": "towel",
+          "x": 507,
+          "y": 338,
+          "width": 73,
+          "height": 128,
+          "type": "rectangle"
+        },
+        {
+          "item": "mirror",
+          "x": 637,
+          "y": 152,
+          "width": 122,
+          "height": 172,
+          "type": "rectangle"
+        },
+        {
+          "item": "toilet",
+          "x": 837,
+          "y": 362,
+          "width": 126,
+          "height": 203,
+          "type": "rectangle"
+        },
+        {
+          "item": "curtain",
+          "x": 178,
+          "y": 160,
+          "width": 142,
+          "height": 372,
+          "type": "rectangle"
+        }
+      ]
+    }
+  }
+}
