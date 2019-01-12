@@ -22,7 +22,7 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
-		7D85639FD909E881FA920D6A /* libPods-ReadItAloud.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F82595ABB9BD6B1CC7FE603 /* libPods-ReadItAloud.a */; };
+		7D85639FD909E881FA920D6A /* libPods-TheBestApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F82595ABB9BD6B1CC7FE603 /* libPods-TheBestApp.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		9C58CC4D21E3C6F8001CCF40 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9C58CC4C21E3C6F8001CCF40 /* GoogleService-Info.plist */; };
 		9F57F335B36549BE9E62446E /* libTextToSpeech.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D9E8973E2C140DEAD02218C /* libTextToSpeech.a */; };
@@ -313,40 +313,40 @@
 		00C302D31ABCB9D200DB3ED1 /* RCTNetwork.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTNetwork.xcodeproj; path = "../node_modules/react-native/Libraries/Network/RCTNetwork.xcodeproj"; sourceTree = "<group>"; };
 		00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTVibration.xcodeproj; path = "../node_modules/react-native/Libraries/Vibration/RCTVibration.xcodeproj"; sourceTree = "<group>"; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* ReadItAloudTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReadItAloudTests.m; sourceTree = "<group>"; };
-		0453B266BFA15D97CF5523EC /* Pods-ReadItAloud-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloud-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloud-tvOS/Pods-ReadItAloud-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* TheBestAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheBestAppTests.m; sourceTree = "<group>"; };
+		0453B266BFA15D97CF5523EC /* Pods-TheBestApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestApp-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestApp-tvOS/Pods-TheBestApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* ReadItAloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReadItAloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ReadItAloud/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ReadItAloud/AppDelegate.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* TheBestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheBestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = TheBestApp/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = TheBestApp/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ReadItAloud/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ReadItAloud/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ReadItAloud/main.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = TheBestApp/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = TheBestApp/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = TheBestApp/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C51B7AF704641658F78E158 /* RNFirebase.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNFirebase.xcodeproj; path = "../node_modules/react-native-firebase/ios/RNFirebase.xcodeproj"; sourceTree = "<group>"; };
-		3C68FD1D8FC1C6DD945EDBA2 /* Pods-ReadItAloudTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloudTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloudTests/Pods-ReadItAloudTests.debug.xcconfig"; sourceTree = "<group>"; };
-		4F98C75B12AD14BF87212B06 /* libPods-ReadItAloud-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReadItAloud-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C68FD1D8FC1C6DD945EDBA2 /* Pods-TheBestAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestAppTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestAppTests/Pods-TheBestAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4F98C75B12AD14BF87212B06 /* libPods-TheBestApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TheBestApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		596A1806FE4C4AB897D6D75F /* libRNFirebase.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNFirebase.a; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
 		5F190D7160EA4AE38C0896D8 /* TextToSpeech.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = TextToSpeech.xcodeproj; path = "../node_modules/react-native-tts/ios/TextToSpeech.xcodeproj"; sourceTree = "<group>"; };
 		6D9E8973E2C140DEAD02218C /* libTextToSpeech.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libTextToSpeech.a; sourceTree = "<group>"; };
-		6F82595ABB9BD6B1CC7FE603 /* libPods-ReadItAloud.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReadItAloud.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		75FE0DE8D8DD8AEB78C555C0 /* libPods-ReadItAloud-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReadItAloud-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F82595ABB9BD6B1CC7FE603 /* libPods-TheBestApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TheBestApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		75FE0DE8D8DD8AEB78C555C0 /* libPods-TheBestApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TheBestApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		9C58CC4C21E3C6F8001CCF40 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
-		9C58CC8F21E48157001CCF40 /* ReadItAloud-tvOSTests copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "ReadItAloud-tvOSTests copy-Info.plist"; path = "/Users/okravchick/opensource/ReadItAloud/ios/ReadItAloud-tvOSTests copy-Info.plist"; sourceTree = "<absolute>"; };
+		9C58CC8F21E48157001CCF40 /* TheBestApp-tvOSTests copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "TheBestApp-tvOSTests copy-Info.plist"; path = "/Users/okravchick/opensource/TheBestApp/ios/TheBestApp-tvOSTests copy-Info.plist"; sourceTree = "<absolute>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
-		B04EBCC64B1FB68CD544296C /* Pods-ReadItAloud-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloud-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloud-tvOSTests/Pods-ReadItAloud-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		B33489756C2DC46EEAD0667B /* Pods-ReadItAloud-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloud-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloud-tvOS/Pods-ReadItAloud-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		BE1EFDBFCB367BA1640C59B9 /* libPods-ReadItAloudTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReadItAloudTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C15E0E3E2A2478A40F9F1488 /* Pods-ReadItAloud.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloud.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloud/Pods-ReadItAloud.debug.xcconfig"; sourceTree = "<group>"; };
-		E3ED7392DCF86D84C7366373 /* Pods-ReadItAloud.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloud.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloud/Pods-ReadItAloud.release.xcconfig"; sourceTree = "<group>"; };
-		E554472848933654F1ACCCC8 /* Pods-ReadItAloudTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloudTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloudTests/Pods-ReadItAloudTests.release.xcconfig"; sourceTree = "<group>"; };
-		F9814EC769756AF7A7B32FE6 /* Pods-ReadItAloud-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReadItAloud-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReadItAloud-tvOSTests/Pods-ReadItAloud-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B04EBCC64B1FB68CD544296C /* Pods-TheBestApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestApp-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestApp-tvOSTests/Pods-TheBestApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		B33489756C2DC46EEAD0667B /* Pods-TheBestApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestApp-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestApp-tvOS/Pods-TheBestApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		BE1EFDBFCB367BA1640C59B9 /* libPods-TheBestAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TheBestAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C15E0E3E2A2478A40F9F1488 /* Pods-TheBestApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestApp/Pods-TheBestApp.debug.xcconfig"; sourceTree = "<group>"; };
+		E3ED7392DCF86D84C7366373 /* Pods-TheBestApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestApp/Pods-TheBestApp.release.xcconfig"; sourceTree = "<group>"; };
+		E554472848933654F1ACCCC8 /* Pods-TheBestAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestAppTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestAppTests/Pods-TheBestAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		F9814EC769756AF7A7B32FE6 /* Pods-TheBestApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheBestApp-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TheBestApp-tvOSTests/Pods-TheBestApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -368,7 +368,7 @@
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
 				0ACE0C5C731B40188472B8E8 /* libRNFirebase.a in Frameworks */,
 				9F57F335B36549BE9E62446E /* libTextToSpeech.a in Frameworks */,
-				7D85639FD909E881FA920D6A /* libPods-ReadItAloud.a in Frameworks */,
+				7D85639FD909E881FA920D6A /* libPods-TheBestApp.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,13 +417,13 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		00E356EF1AD99517003FC87E /* ReadItAloudTests */ = {
+		00E356EF1AD99517003FC87E /* TheBestAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* ReadItAloudTests.m */,
+				00E356F21AD99517003FC87E /* TheBestAppTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = ReadItAloudTests;
+			path = TheBestAppTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -454,7 +454,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* ReadItAloud */ = {
+		13B07FAE1A68108700A75B9A /* TheBestApp */ = {
 			isa = PBXGroup;
 			children = (
 				9C58CC4C21E3C6F8001CCF40 /* GoogleService-Info.plist */,
@@ -466,7 +466,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = ReadItAloud;
+			name = TheBestApp;
 			sourceTree = "<group>";
 		};
 		146834001AC3E56700842450 /* Products */ = {
@@ -496,10 +496,10 @@
 			isa = PBXGroup;
 			children = (
 				2D16E6891FA4F8E400B85C8A /* libReact.a */,
-				6F82595ABB9BD6B1CC7FE603 /* libPods-ReadItAloud.a */,
-				75FE0DE8D8DD8AEB78C555C0 /* libPods-ReadItAloud-tvOS.a */,
-				4F98C75B12AD14BF87212B06 /* libPods-ReadItAloud-tvOSTests.a */,
-				BE1EFDBFCB367BA1640C59B9 /* libPods-ReadItAloudTests.a */,
+				6F82595ABB9BD6B1CC7FE603 /* libPods-TheBestApp.a */,
+				75FE0DE8D8DD8AEB78C555C0 /* libPods-TheBestApp-tvOS.a */,
+				4F98C75B12AD14BF87212B06 /* libPods-TheBestApp-tvOSTests.a */,
+				BE1EFDBFCB367BA1640C59B9 /* libPods-TheBestAppTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -555,14 +555,14 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* ReadItAloud */,
+				13B07FAE1A68108700A75B9A /* TheBestApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* ReadItAloudTests */,
+				00E356EF1AD99517003FC87E /* TheBestAppTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				9C58CBE921E30171001CCF40 /* Recovered References */,
 				C73BF1ED1322DDBF0E861B54 /* Pods */,
-				9C58CC8F21E48157001CCF40 /* ReadItAloud-tvOSTests copy-Info.plist */,
+				9C58CC8F21E48157001CCF40 /* TheBestApp-tvOSTests copy-Info.plist */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -572,7 +572,7 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* ReadItAloud.app */,
+				13B07F961A680F5B00A75B9A /* TheBestApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -614,14 +614,14 @@
 		C73BF1ED1322DDBF0E861B54 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C15E0E3E2A2478A40F9F1488 /* Pods-ReadItAloud.debug.xcconfig */,
-				E3ED7392DCF86D84C7366373 /* Pods-ReadItAloud.release.xcconfig */,
-				B33489756C2DC46EEAD0667B /* Pods-ReadItAloud-tvOS.debug.xcconfig */,
-				0453B266BFA15D97CF5523EC /* Pods-ReadItAloud-tvOS.release.xcconfig */,
-				F9814EC769756AF7A7B32FE6 /* Pods-ReadItAloud-tvOSTests.debug.xcconfig */,
-				B04EBCC64B1FB68CD544296C /* Pods-ReadItAloud-tvOSTests.release.xcconfig */,
-				3C68FD1D8FC1C6DD945EDBA2 /* Pods-ReadItAloudTests.debug.xcconfig */,
-				E554472848933654F1ACCCC8 /* Pods-ReadItAloudTests.release.xcconfig */,
+				C15E0E3E2A2478A40F9F1488 /* Pods-TheBestApp.debug.xcconfig */,
+				E3ED7392DCF86D84C7366373 /* Pods-TheBestApp.release.xcconfig */,
+				B33489756C2DC46EEAD0667B /* Pods-TheBestApp-tvOS.debug.xcconfig */,
+				0453B266BFA15D97CF5523EC /* Pods-TheBestApp-tvOS.release.xcconfig */,
+				F9814EC769756AF7A7B32FE6 /* Pods-TheBestApp-tvOSTests.debug.xcconfig */,
+				B04EBCC64B1FB68CD544296C /* Pods-TheBestApp-tvOSTests.release.xcconfig */,
+				3C68FD1D8FC1C6DD945EDBA2 /* Pods-TheBestAppTests.debug.xcconfig */,
+				E554472848933654F1ACCCC8 /* Pods-TheBestAppTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -629,9 +629,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		13B07F861A680F5B00A75B9A /* ReadItAloud */ = {
+		13B07F861A680F5B00A75B9A /* TheBestApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReadItAloud" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "TheBestApp" */;
 			buildPhases = (
 				4F69C62780417CF68D0148DC /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
@@ -643,9 +643,9 @@
 			);
 			dependencies = (
 			);
-			name = ReadItAloud;
+			name = TheBestApp;
 			productName = "Hello World";
-			productReference = 13B07F961A680F5B00A75B9A /* ReadItAloud.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* TheBestApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -662,7 +662,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReadItAloud" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "TheBestApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -733,7 +733,7 @@
 			);
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* ReadItAloud */,
+				13B07F861A680F5B00A75B9A /* TheBestApp */,
 			);
 		};
 /* End PBXProject section */
@@ -1057,7 +1057,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-ReadItAloud-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-TheBestApp-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1085,7 +1085,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = ReadItAloud;
+			path = TheBestApp;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -1093,7 +1093,7 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C15E0E3E2A2478A40F9F1488 /* Pods-ReadItAloud.debug.xcconfig */;
+			baseConfigurationReference = C15E0E3E2A2478A40F9F1488 /* Pods-TheBestApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
@@ -1104,7 +1104,7 @@
 					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
 					"$(SRCROOT)/../node_modules/react-native-tts/ios/TextToSpeech",
 				);
-				INFOPLIST_FILE = ReadItAloud/Info.plist;
+				INFOPLIST_FILE = TheBestApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1113,7 +1113,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = ReadItAloud;
+				PRODUCT_NAME = TheBestApp;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1121,7 +1121,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E3ED7392DCF86D84C7366373 /* Pods-ReadItAloud.release.xcconfig */;
+			baseConfigurationReference = E3ED7392DCF86D84C7366373 /* Pods-TheBestApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
@@ -1131,7 +1131,7 @@
 					"$(SRCROOT)/../node_modules/react-native-firebase/ios/RNFirebase/**",
 					"$(SRCROOT)/../node_modules/react-native-tts/ios/TextToSpeech",
 				);
-				INFOPLIST_FILE = ReadItAloud/Info.plist;
+				INFOPLIST_FILE = TheBestApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1140,7 +1140,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = ReadItAloud;
+				PRODUCT_NAME = TheBestApp;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1248,7 +1248,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReadItAloud" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "TheBestApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1257,7 +1257,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReadItAloud" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "TheBestApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

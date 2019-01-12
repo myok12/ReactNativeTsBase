@@ -1,4 +1,4 @@
-package com.readitaloud;
+package com.thebestapp;
 
 import android.app.Application;
 

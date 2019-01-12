@@ -1,4 +1,4 @@
-rootProject.name = 'ReadItAloud'
+rootProject.name = 'TheBestApp'
 include ':react-native-firebase'
 project(':react-native-firebase').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-firebase/android')
 include ':react-native-tts'

@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A8A4711264C2D26F3C492A1AE62BB3EB"
-               BuildableName = "libPods-ReadItAloud.a"
-               BlueprintName = "Pods-ReadItAloud"
+               BuildableName = "libPods-TheBestApp.a"
+               BlueprintName = "Pods-TheBestApp"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A8A4711264C2D26F3C492A1AE62BB3EB"
-            BuildableName = "libPods-ReadItAloud.a"
-            BlueprintName = "Pods-ReadItAloud"
+            BuildableName = "libPods-TheBestApp.a"
+            BlueprintName = "Pods-TheBestApp"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,8 +64,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A8A4711264C2D26F3C492A1AE62BB3EB"
-            BuildableName = "libPods-ReadItAloud.a"
-            BlueprintName = "Pods-ReadItAloud"
+            BuildableName = "libPods-TheBestApp.a"
+            BlueprintName = "Pods-TheBestApp"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

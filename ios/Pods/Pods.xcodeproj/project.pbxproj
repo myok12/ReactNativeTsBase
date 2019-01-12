@@ -12,7 +12,7 @@
 		039B2BF3F086EC6DCF4560BB7BCAE911 /* FIRAnalyticsConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = DBE42D6493FEA2C894DFAE1513432AAB /* FIRAnalyticsConfiguration.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		04567300760496D4FC09D063A981148C /* GULUserDefaults.h in Headers */ = {isa = PBXBuildFile; fileRef = 596827C84D01DD38F5530DFE45E9622C /* GULUserDefaults.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		0543CEB1F11B82ADD7A456FD81BCAFC8 /* pb_decode.h in Headers */ = {isa = PBXBuildFile; fileRef = 259B50BA20D31CA71BBA4B71AC076A8A /* pb_decode.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		070AE11FEC3A8A75FAE289C0CAE3B3FA /* Pods-ReadItAloud-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F309F5D04E6E58F0F7D8FEC17B4E9106 /* Pods-ReadItAloud-dummy.m */; };
+		070AE11FEC3A8A75FAE289C0CAE3B3FA /* Pods-TheBestApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F309F5D04E6E58F0F7D8FEC17B4E9106 /* Pods-TheBestApp-dummy.m */; };
 		08A964F4D8B91108167E0FDBEF9F8BC9 /* GULReachabilityChecker.h in Headers */ = {isa = PBXBuildFile; fileRef = 3DC6CF1B7DBD1B25A6A421C6FBDFBB55 /* GULReachabilityChecker.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		08C2578C1981B4DCD9391E0CF8E793FF /* FIRLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C6237C096548088AF092D425C747C59 /* FIRLogger.m */; };
 		0B1A04DFAC23E13C8926BD7379A68D7E /* FIROptionsInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = F7DE10D72BBCD39032BC569639373752 /* FIROptionsInternal.h */; settings = {ATTRIBUTES = (Project, ); }; };
@@ -36,7 +36,7 @@
 		3A8A00241816EB46C54750B01F2C1EAE /* nanopb-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 85B9B84B6486D6141B6A3687342D2BA2 /* nanopb-dummy.m */; };
 		3C1354DD79F120A10985BD47180709CC /* FIRApp.m in Sources */ = {isa = PBXBuildFile; fileRef = C939AE9D6F93B7BB89625451ADF5AD3E /* FIRApp.m */; };
 		48CA197927C91726B41CDE1EF9EA2A09 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5085E147E9E80668753709C6726138A /* Security.framework */; };
-		4D75D704E60479CC48D6199EE6DF96D5 /* Pods-ReadItAloud-tvOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 996AC27B911B20EFE7367A59D30C6996 /* Pods-ReadItAloud-tvOS-dummy.m */; };
+		4D75D704E60479CC48D6199EE6DF96D5 /* Pods-TheBestApp-tvOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 996AC27B911B20EFE7367A59D30C6996 /* Pods-TheBestApp-tvOS-dummy.m */; };
 		5083A7049E4953BC554D3E854781AAB9 /* FirebaseCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C348EF468EA033C239CB76739DE9DE /* FirebaseCore.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		51E57054224CEEF8804DC49BE0AFCECD /* pb_decode.c in Sources */ = {isa = PBXBuildFile; fileRef = FC806F50B43BB45553A117206F1B22D6 /* pb_decode.c */; settings = {COMPILER_FLAGS = "-fno-objc-arc -fno-objc-arc"; }; };
 		539860E10DABF38B40ADA5BA5A7EF464 /* FIRAppAssociationRegistration.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CCB78A8260769C3872184955018E367 /* FIRAppAssociationRegistration.h */; settings = {ATTRIBUTES = (Project, ); }; };
@@ -46,7 +46,7 @@
 		5D11E09891F8A8689FA54A5C4F9DCC87 /* FIRVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = 90C146E63C92143089E8D0CCC93FD2F3 /* FIRVersion.m */; };
 		5F7CC1B4449BA8DAA22D13447547D2A1 /* FIRComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = A8BB116FDC253EA869C8E9D96CF0E257 /* FIRComponent.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		6E7652EA73658CA4847957DBA8733525 /* FIRComponentContainerInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = 71EC7E1932CD0C03FC3F9FEDA731DCCF /* FIRComponentContainerInternal.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		72168434125743D61C31043B7ED1B4DF /* Pods-ReadItAloud-tvOSTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6439F20E100B11C32207AFD0DDE3B728 /* Pods-ReadItAloud-tvOSTests-dummy.m */; };
+		72168434125743D61C31043B7ED1B4DF /* Pods-TheBestApp-tvOSTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6439F20E100B11C32207AFD0DDE3B728 /* Pods-TheBestApp-tvOSTests-dummy.m */; };
 		79736B6E99225BD13A7851864D29148D /* FIRAppAssociationRegistration.m in Sources */ = {isa = PBXBuildFile; fileRef = B0E1D83597E24FDEE369885C18C952BD /* FIRAppAssociationRegistration.m */; };
 		7BF2F0C7B45DE943E82943483386951B /* GoogleUtilities-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AE9541E3137BF40703C9129D46DF0115 /* GoogleUtilities-dummy.m */; };
 		7D7CB98F3DCE93B9CA262408FF4259CC /* FIRDependency.h in Headers */ = {isa = PBXBuildFile; fileRef = 5950F056361D9D4A1675C45150DAF28B /* FIRDependency.h */; settings = {ATTRIBUTES = (Project, ); }; };
@@ -59,7 +59,7 @@
 		8A4D588C8428FF13B83B1EF8C146736A /* pb_common.c in Sources */ = {isa = PBXBuildFile; fileRef = EA0142194C1EB905679758D344061104 /* pb_common.c */; settings = {COMPILER_FLAGS = "-fno-objc-arc -fno-objc-arc -fno-objc-arc"; }; };
 		8A9126984D1B4021861A0C15AD35D6F9 /* GULLoggerCodes.h in Headers */ = {isa = PBXBuildFile; fileRef = EE38D3C4904DF2DDC1F6DB8049D55E96 /* GULLoggerCodes.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		8AB69640D858B677D4E092E03E9B67AF /* FIRComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 26F0C9846AFF48B56A1F4265AC3ED508 /* FIRComponent.m */; };
-		8B4E0010D1FE62A790DDE7A8234F4AB6 /* Pods-ReadItAloudTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B8175ECCCA1C2ECFE799033BE1F245F9 /* Pods-ReadItAloudTests-dummy.m */; };
+		8B4E0010D1FE62A790DDE7A8234F4AB6 /* Pods-TheBestAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B8175ECCCA1C2ECFE799033BE1F245F9 /* Pods-TheBestAppTests-dummy.m */; };
 		8C8DFA02CFEE60841D0ADC35173B6DCF /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 16B3DD385BC119CA35701F3B81A5006B /* SystemConfiguration.framework */; };
 		8D31A23B81CB1DF0CB66385874F4DF0C /* FIRConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 09679AF3C1DCAE1FE25BA47BD089CF18 /* FIRConfiguration.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		8DD51069014DE82559728F5A6FCBCE84 /* FIRVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = F9387FE6C0C61694D1CDAE3136531ED8 /* FIRVersion.h */; settings = {ATTRIBUTES = (Project, ); }; };
@@ -111,7 +111,7 @@
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 268D9DA85A19663FB31E81D28A356995;
-			remoteInfo = "Pods-ReadItAloud-tvOS";
+			remoteInfo = "Pods-TheBestApp-tvOS";
 		};
 		B25840C7D5AEFBC66340575A0D4D006A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -132,12 +132,12 @@
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = A8A4711264C2D26F3C492A1AE62BB3EB;
-			remoteInfo = "Pods-ReadItAloud";
+			remoteInfo = "Pods-TheBestApp";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00A4ECB719F83A9CAAAF8BA7C4728B36 /* Pods-ReadItAloudTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloudTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00A4ECB719F83A9CAAAF8BA7C4728B36 /* Pods-TheBestAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		04F37D4753B96F5D9204BF6D209967E8 /* GULAppEnvironmentUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULAppEnvironmentUtil.m; path = GoogleUtilities/Environment/third_party/GULAppEnvironmentUtil.m; sourceTree = "<group>"; };
 		0819F840866E31104C3CF55583382AB2 /* FirebaseCore-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FirebaseCore-dummy.m"; sourceTree = "<group>"; };
 		08CF082C948B363E2735C1B018B8601D /* GULLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULLogger.h; path = GoogleUtilities/Logger/Private/GULLogger.h; sourceTree = "<group>"; };
@@ -146,54 +146,54 @@
 		0B5625C859533F72B8581A68E21473CB /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseAnalytics.framework; path = Frameworks/FirebaseAnalytics.framework; sourceTree = "<group>"; };
 		0DD2513C77005CD80D0C7BCF882C153F /* pb_encode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pb_encode.h; sourceTree = "<group>"; };
 		0FD7526812E653A7855A42E964FA820C /* FIRLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRLogger.h; path = Firebase/Core/Private/FIRLogger.h; sourceTree = "<group>"; };
-		0FF921E84A47CA5CCF88BADFB0D95B3F /* libPods-ReadItAloud-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-ReadItAloud-tvOS.a"; path = "libPods-ReadItAloud-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		128F5480074F9406A6152B41536A6E3A /* Pods-ReadItAloud.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloud.release.xcconfig"; sourceTree = "<group>"; };
+		0FF921E84A47CA5CCF88BADFB0D95B3F /* libPods-TheBestApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-TheBestApp-tvOS.a"; path = "libPods-TheBestApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		128F5480074F9406A6152B41536A6E3A /* Pods-TheBestApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestApp.release.xcconfig"; sourceTree = "<group>"; };
 		148702E0D0C7F5E4C97BF5B19A3C0815 /* GULLoggerLevel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULLoggerLevel.h; path = GoogleUtilities/Logger/Public/GULLoggerLevel.h; sourceTree = "<group>"; };
 		16B3DD385BC119CA35701F3B81A5006B /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
 		1B6DFF081E16FE99170A57832074A0F1 /* GULNetwork.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULNetwork.h; path = GoogleUtilities/Network/Private/GULNetwork.h; sourceTree = "<group>"; };
-		1B7B88AE3D522789E621413EFC3B8EB8 /* Pods-ReadItAloud-tvOSTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloud-tvOSTests-resources.sh"; sourceTree = "<group>"; };
+		1B7B88AE3D522789E621413EFC3B8EB8 /* Pods-TheBestApp-tvOSTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestApp-tvOSTests-resources.sh"; sourceTree = "<group>"; };
 		1CCB78A8260769C3872184955018E367 /* FIRAppAssociationRegistration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRAppAssociationRegistration.h; path = Firebase/Core/Private/FIRAppAssociationRegistration.h; sourceTree = "<group>"; };
-		1F7A9CF3A3C06C52453287413E78B174 /* Pods-ReadItAloud-tvOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloud-tvOSTests-frameworks.sh"; sourceTree = "<group>"; };
-		23BE9F99B7669813BE8FB160E76535E1 /* Pods-ReadItAloudTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloudTests-frameworks.sh"; sourceTree = "<group>"; };
+		1F7A9CF3A3C06C52453287413E78B174 /* Pods-TheBestApp-tvOSTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestApp-tvOSTests-frameworks.sh"; sourceTree = "<group>"; };
+		23BE9F99B7669813BE8FB160E76535E1 /* Pods-TheBestAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestAppTests-frameworks.sh"; sourceTree = "<group>"; };
 		2462D7259B309DFEA1B3ACAEB1DA0CFD /* GULMutableDictionary.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULMutableDictionary.m; path = GoogleUtilities/Network/GULMutableDictionary.m; sourceTree = "<group>"; };
 		259B50BA20D31CA71BBA4B71AC076A8A /* pb_decode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pb_decode.h; sourceTree = "<group>"; };
 		26F0C9846AFF48B56A1F4265AC3ED508 /* FIRComponent.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRComponent.m; path = Firebase/Core/FIRComponent.m; sourceTree = "<group>"; };
 		281ACFC8986510A5D5931B27950FBE40 /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseInstanceID.framework; path = Frameworks/FirebaseInstanceID.framework; sourceTree = "<group>"; };
-		2C115957091EF27FFAC62858B3A72583 /* Pods-ReadItAloud-tvOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ReadItAloud-tvOS-acknowledgements.markdown"; sourceTree = "<group>"; };
+		2C115957091EF27FFAC62858B3A72583 /* Pods-TheBestApp-tvOS-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TheBestApp-tvOS-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2FC1BC8EB8748F1CC897290FFDE75687 /* FIRAnalyticsConfiguration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRAnalyticsConfiguration.m; path = Firebase/Core/FIRAnalyticsConfiguration.m; sourceTree = "<group>"; };
 		30124032317A6BBE1159A6021C5B5237 /* GULLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULLogger.m; path = GoogleUtilities/Logger/GULLogger.m; sourceTree = "<group>"; };
 		36F1FC472815212F5D228DF9D7C4CCA5 /* FIRBundleUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRBundleUtil.h; path = Firebase/Core/Private/FIRBundleUtil.h; sourceTree = "<group>"; };
 		37A5CE50D4B08A578C7A88C6F8BA486F /* GULNetworkMessageCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULNetworkMessageCode.h; path = GoogleUtilities/Network/Private/GULNetworkMessageCode.h; sourceTree = "<group>"; };
 		396ECF28985B93FA00CED9CB961AA93D /* FIRComponentRegistrant.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRComponentRegistrant.h; path = Firebase/Core/Private/FIRComponentRegistrant.h; sourceTree = "<group>"; };
-		3C207D20FE45A482452A7283FCB89646 /* libPods-ReadItAloudTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-ReadItAloudTests.a"; path = "libPods-ReadItAloudTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D9724FD78FD34AC3101B595065F3D15 /* Pods-ReadItAloudTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloudTests.release.xcconfig"; sourceTree = "<group>"; };
+		3C207D20FE45A482452A7283FCB89646 /* libPods-TheBestAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-TheBestAppTests.a"; path = "libPods-TheBestAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D9724FD78FD34AC3101B595065F3D15 /* Pods-TheBestAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		3DC6CF1B7DBD1B25A6A421C6FBDFBB55 /* GULReachabilityChecker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULReachabilityChecker.h; path = GoogleUtilities/Reachability/Private/GULReachabilityChecker.h; sourceTree = "<group>"; };
-		411FA6A66A3B94FAFE90425FE0F1E624 /* Pods-ReadItAloud-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ReadItAloud-acknowledgements.plist"; sourceTree = "<group>"; };
+		411FA6A66A3B94FAFE90425FE0F1E624 /* Pods-TheBestApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TheBestApp-acknowledgements.plist"; sourceTree = "<group>"; };
 		48C38316E52F871A928150D4969C8D36 /* GULMutableDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULMutableDictionary.h; path = GoogleUtilities/Network/Private/GULMutableDictionary.h; sourceTree = "<group>"; };
 		4E4A80DDF7FF5B8DAE78C0F357AB396F /* FIRErrors.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRErrors.m; path = Firebase/Core/FIRErrors.m; sourceTree = "<group>"; };
 		52F1F5A478EF35EF4FCD569C043DDF9E /* GULAppEnvironmentUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULAppEnvironmentUtil.h; path = GoogleUtilities/Environment/third_party/GULAppEnvironmentUtil.h; sourceTree = "<group>"; };
 		55D8FE1C5DFB6E7CFA68A5D68A4AC292 /* GULNetworkURLSession.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULNetworkURLSession.h; path = GoogleUtilities/Network/Private/GULNetworkURLSession.h; sourceTree = "<group>"; };
 		5716FEF2439FB07EA75C3D14D054FEE3 /* FIRCoreConfigurable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRCoreConfigurable.h; path = Firebase/Core/Private/FIRCoreConfigurable.h; sourceTree = "<group>"; };
-		58E99CA04CFACDB1286A452FDBFCFCDA /* Pods-ReadItAloud-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloud-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		58E99CA04CFACDB1286A452FDBFCFCDA /* Pods-TheBestApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5950F056361D9D4A1675C45150DAF28B /* FIRDependency.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRDependency.h; path = Firebase/Core/Private/FIRDependency.h; sourceTree = "<group>"; };
 		596827C84D01DD38F5530DFE45E9622C /* GULUserDefaults.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULUserDefaults.h; path = GoogleUtilities/UserDefaults/Private/GULUserDefaults.h; sourceTree = "<group>"; };
-		5B1C159786029FF087AAB9B084AE7258 /* Pods-ReadItAloudTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ReadItAloudTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		5B1C159786029FF087AAB9B084AE7258 /* Pods-TheBestAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TheBestAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		5C509AEC842C8CC271E0FF1D40E59398 /* FIRDependency.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRDependency.m; path = Firebase/Core/FIRDependency.m; sourceTree = "<group>"; };
 		5C6237C096548088AF092D425C747C59 /* FIRLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRLogger.m; path = Firebase/Core/FIRLogger.m; sourceTree = "<group>"; };
 		5EB334C43BE8E1E4DD0973CD425643F0 /* GULReachabilityChecker+Internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "GULReachabilityChecker+Internal.h"; path = "GoogleUtilities/Reachability/GULReachabilityChecker+Internal.h"; sourceTree = "<group>"; };
 		60FA69ED3D8405952F07E1748A1658DC /* GULSwizzler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULSwizzler.h; path = GoogleUtilities/MethodSwizzler/Private/GULSwizzler.h; sourceTree = "<group>"; };
 		62C348EF468EA033C239CB76739DE9DE /* FirebaseCore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FirebaseCore.h; path = Firebase/Core/Public/FirebaseCore.h; sourceTree = "<group>"; };
-		63089FEAE555EFC0FA64DFC4BEBC84FB /* Pods-ReadItAloud-tvOS-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloud-tvOS-frameworks.sh"; sourceTree = "<group>"; };
-		6439F20E100B11C32207AFD0DDE3B728 /* Pods-ReadItAloud-tvOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ReadItAloud-tvOSTests-dummy.m"; sourceTree = "<group>"; };
+		63089FEAE555EFC0FA64DFC4BEBC84FB /* Pods-TheBestApp-tvOS-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestApp-tvOS-frameworks.sh"; sourceTree = "<group>"; };
+		6439F20E100B11C32207AFD0DDE3B728 /* Pods-TheBestApp-tvOSTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TheBestApp-tvOSTests-dummy.m"; sourceTree = "<group>"; };
 		64BA6B5D8D709E8FE29F5BFD9697BB50 /* GULAppDelegateSwizzler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULAppDelegateSwizzler.h; path = GoogleUtilities/AppDelegateSwizzler/Private/GULAppDelegateSwizzler.h; sourceTree = "<group>"; };
 		6C9BA1316AD2348B97DD36E37ACC0858 /* FIRErrors.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRErrors.h; path = Firebase/Core/Private/FIRErrors.h; sourceTree = "<group>"; };
 		6CB5509F3D6E83A5B5185B2E98F94EE3 /* nanopb.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = nanopb.xcconfig; sourceTree = "<group>"; };
 		6E79433DE08E480586993BF856C6C77B /* libGoogleUtilities.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libGoogleUtilities.a; path = libGoogleUtilities.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F8EBD8B860092C687654B78144B0A47 /* pb_common.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pb_common.h; sourceTree = "<group>"; };
 		71EC7E1932CD0C03FC3F9FEDA731DCCF /* FIRComponentContainerInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRComponentContainerInternal.h; path = Firebase/Core/Private/FIRComponentContainerInternal.h; sourceTree = "<group>"; };
-		72F61F6F264477F905B68E9E537D4F7F /* Pods-ReadItAloud-tvOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ReadItAloud-tvOS-acknowledgements.plist"; sourceTree = "<group>"; };
+		72F61F6F264477F905B68E9E537D4F7F /* Pods-TheBestApp-tvOS-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TheBestApp-tvOS-acknowledgements.plist"; sourceTree = "<group>"; };
 		739314DAF14D1635609D192DA88AF0F3 /* GULReachabilityMessageCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULReachabilityMessageCode.h; path = GoogleUtilities/Reachability/Private/GULReachabilityMessageCode.h; sourceTree = "<group>"; };
-		743303FAAF826E831C82C4EE6C1C87F6 /* Pods-ReadItAloud-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ReadItAloud-acknowledgements.markdown"; sourceTree = "<group>"; };
+		743303FAAF826E831C82C4EE6C1C87F6 /* Pods-TheBestApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TheBestApp-acknowledgements.markdown"; sourceTree = "<group>"; };
 		781EA6483A5ACBDC1F9D8702880A9D72 /* GULNetworkLoggerProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULNetworkLoggerProtocol.h; path = GoogleUtilities/Network/Private/GULNetworkLoggerProtocol.h; sourceTree = "<group>"; };
 		828D3B3800DAD0E7E10445E109F05949 /* FIRConfiguration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRConfiguration.m; path = Firebase/Core/FIRConfiguration.m; sourceTree = "<group>"; };
 		83EE39A7C54F4A209098604618C775C9 /* FIRErrorCode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRErrorCode.h; path = Firebase/Core/Private/FIRErrorCode.h; sourceTree = "<group>"; };
@@ -205,53 +205,53 @@
 		87D174CD5D266DBA889FCE5D5ABBF648 /* GULNetwork.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULNetwork.m; path = GoogleUtilities/Network/GULNetwork.m; sourceTree = "<group>"; };
 		8F504539E30C5D64D9A14EB2CF19A1A3 /* GULNetworkURLSession.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULNetworkURLSession.m; path = GoogleUtilities/Network/GULNetworkURLSession.m; sourceTree = "<group>"; };
 		90C146E63C92143089E8D0CCC93FD2F3 /* FIRVersion.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRVersion.m; path = Firebase/Core/FIRVersion.m; sourceTree = "<group>"; };
-		91B186F9B0ECA80A78DC2B02E1EF40A5 /* Pods-ReadItAloud-tvOSTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ReadItAloud-tvOSTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		91B186F9B0ECA80A78DC2B02E1EF40A5 /* Pods-TheBestApp-tvOSTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TheBestApp-tvOSTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94DF5A3F66372D74DBEF84DD941CAE1E /* FIRComponentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRComponentType.h; path = Firebase/Core/Private/FIRComponentType.h; sourceTree = "<group>"; };
 		96A0649A2592EC41E7B7369BF234A4A3 /* Firebase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Firebase.h; path = CoreOnly/Sources/Firebase.h; sourceTree = "<group>"; };
-		996AC27B911B20EFE7367A59D30C6996 /* Pods-ReadItAloud-tvOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ReadItAloud-tvOS-dummy.m"; sourceTree = "<group>"; };
+		996AC27B911B20EFE7367A59D30C6996 /* Pods-TheBestApp-tvOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TheBestApp-tvOS-dummy.m"; sourceTree = "<group>"; };
 		9BADD0D850BA800CD22C3D8C8BE3DE56 /* GULAppDelegateSwizzler_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULAppDelegateSwizzler_Private.h; path = GoogleUtilities/AppDelegateSwizzler/Internal/GULAppDelegateSwizzler_Private.h; sourceTree = "<group>"; };
 		9D3163E2A2313550931FABBEC260BC49 /* libFirebaseCore.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libFirebaseCore.a; path = libFirebaseCore.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A051EFDA7A218608582FD6EDE39404E7 /* GULNetworkConstants.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULNetworkConstants.m; path = GoogleUtilities/Network/GULNetworkConstants.m; sourceTree = "<group>"; };
 		A1C1F4C9A14003FEBA72B81C995BF02E /* FIROptions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIROptions.m; path = Firebase/Core/FIROptions.m; sourceTree = "<group>"; };
 		A4C870F6A26811E90AF142E568C00477 /* libnanopb.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libnanopb.a; path = libnanopb.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		A50751807C900705E7716A0AA08666BA /* Pods-ReadItAloud-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloud-resources.sh"; sourceTree = "<group>"; };
-		A86D242044750AE775DADB5F10B60F8E /* Pods-ReadItAloud-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloud-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		A50751807C900705E7716A0AA08666BA /* Pods-TheBestApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestApp-resources.sh"; sourceTree = "<group>"; };
+		A86D242044750AE775DADB5F10B60F8E /* Pods-TheBestApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		A8BB116FDC253EA869C8E9D96CF0E257 /* FIRComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRComponent.h; path = Firebase/Core/Private/FIRComponent.h; sourceTree = "<group>"; };
 		AD8047ABE215C070A01965823E78471A /* FIRAnalyticsConnector.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FIRAnalyticsConnector.framework; path = Frameworks/FIRAnalyticsConnector.framework; sourceTree = "<group>"; };
 		AE9541E3137BF40703C9129D46DF0115 /* GoogleUtilities-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GoogleUtilities-dummy.m"; sourceTree = "<group>"; };
-		AFF19075416641F5852674A7DF252FD4 /* libPods-ReadItAloud.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-ReadItAloud.a"; path = "libPods-ReadItAloud.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFF19075416641F5852674A7DF252FD4 /* libPods-TheBestApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-TheBestApp.a"; path = "libPods-TheBestApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0E1D83597E24FDEE369885C18C952BD /* FIRAppAssociationRegistration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRAppAssociationRegistration.m; path = Firebase/Core/FIRAppAssociationRegistration.m; sourceTree = "<group>"; };
 		B3825027C469DBD4F21914A618FD7FCE /* FIRComponentContainer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRComponentContainer.m; path = Firebase/Core/FIRComponentContainer.m; sourceTree = "<group>"; };
-		B60F039F3114950A56FCB80FCCC6A117 /* Pods-ReadItAloud-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloud-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		B8175ECCCA1C2ECFE799033BE1F245F9 /* Pods-ReadItAloudTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ReadItAloudTests-dummy.m"; sourceTree = "<group>"; };
-		BA0A8C0AA005C4A24BCEEB5746CD0B8D /* Pods-ReadItAloud.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloud.debug.xcconfig"; sourceTree = "<group>"; };
+		B60F039F3114950A56FCB80FCCC6A117 /* Pods-TheBestApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		B8175ECCCA1C2ECFE799033BE1F245F9 /* Pods-TheBestAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TheBestAppTests-dummy.m"; sourceTree = "<group>"; };
+		BA0A8C0AA005C4A24BCEEB5746CD0B8D /* Pods-TheBestApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestApp.debug.xcconfig"; sourceTree = "<group>"; };
 		BAF63193696598E392EE2C4551982D56 /* GULAppDelegateSwizzler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULAppDelegateSwizzler.m; path = GoogleUtilities/AppDelegateSwizzler/GULAppDelegateSwizzler.m; sourceTree = "<group>"; };
 		BC5A90BC82FE5FA9EF652044A9FFE8C5 /* GULNSData+zlib.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "GULNSData+zlib.h"; path = "GoogleUtilities/NSData+zlib/GULNSData+zlib.h"; sourceTree = "<group>"; };
 		BCB448386A77BD3801D3DAF1276F7552 /* GULOriginalIMPConvenienceMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULOriginalIMPConvenienceMacros.h; path = GoogleUtilities/MethodSwizzler/Private/GULOriginalIMPConvenienceMacros.h; sourceTree = "<group>"; };
 		BCCFAABAF90E26C00E1647F76FC85CA2 /* FIRComponentContainer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRComponentContainer.h; path = Firebase/Core/Private/FIRComponentContainer.h; sourceTree = "<group>"; };
-		BD5AE5BE930D84DB069E1804402FED94 /* Pods-ReadItAloud-tvOS-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloud-tvOS-resources.sh"; sourceTree = "<group>"; };
+		BD5AE5BE930D84DB069E1804402FED94 /* Pods-TheBestApp-tvOS-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestApp-tvOS-resources.sh"; sourceTree = "<group>"; };
 		C160B5D09FD1EFBD7FCA6631430EBAA0 /* GULSwizzler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GULSwizzler.m; path = GoogleUtilities/MethodSwizzler/GULSwizzler.m; sourceTree = "<group>"; };
 		C4E06A99EA4803D4CB11E7A477D9AE8F /* GULNSData+zlib.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "GULNSData+zlib.m"; path = "GoogleUtilities/NSData+zlib/GULNSData+zlib.m"; sourceTree = "<group>"; };
 		C939AE9D6F93B7BB89625451ADF5AD3E /* FIRApp.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRApp.m; path = Firebase/Core/FIRApp.m; sourceTree = "<group>"; };
-		CFE8DF80300C3F092C174F1964F67F16 /* Pods-ReadItAloud-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloud-frameworks.sh"; sourceTree = "<group>"; };
+		CFE8DF80300C3F092C174F1964F67F16 /* Pods-TheBestApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestApp-frameworks.sh"; sourceTree = "<group>"; };
 		D4297F64C4710B308B4217400455F13F /* pb_encode.c */ = {isa = PBXFileReference; includeInIndex = 1; path = pb_encode.c; sourceTree = "<group>"; };
-		D492BF01E37848AB781F2FFD271991F3 /* Pods-ReadItAloudTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ReadItAloudTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		D492BF01E37848AB781F2FFD271991F3 /* Pods-TheBestAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TheBestAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D53CED4D5E611364093733EB493034A3 /* FIRAnalyticsConfiguration+Internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "FIRAnalyticsConfiguration+Internal.h"; path = "Firebase/Core/Private/FIRAnalyticsConfiguration+Internal.h"; sourceTree = "<group>"; };
 		DBE42D6493FEA2C894DFAE1513432AAB /* FIRAnalyticsConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRAnalyticsConfiguration.h; path = Firebase/Core/Public/FIRAnalyticsConfiguration.h; sourceTree = "<group>"; };
-		DC48645CF00649C2ED2157D70FC292CB /* libPods-ReadItAloud-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-ReadItAloud-tvOSTests.a"; path = "libPods-ReadItAloud-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC48645CF00649C2ED2157D70FC292CB /* libPods-TheBestApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-TheBestApp-tvOSTests.a"; path = "libPods-TheBestApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC86E049C99FE80C8DC56BB8EC22C203 /* FIRAppInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRAppInternal.h; path = Firebase/Core/Private/FIRAppInternal.h; sourceTree = "<group>"; };
-		E2D9E481E9D2DA1468171DC945435500 /* Pods-ReadItAloud-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ReadItAloud-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		E2D9E481E9D2DA1468171DC945435500 /* Pods-TheBestApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TheBestApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		E5085E147E9E80668753709C6726138A /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		E5DC58069060C52465917D027D48C820 /* FIRLoggerLevel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRLoggerLevel.h; path = Firebase/Core/Public/FIRLoggerLevel.h; sourceTree = "<group>"; };
 		E6FA2BA15A27B8080E442C8CF8123D57 /* GoogleAppMeasurement.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleAppMeasurement.framework; path = Frameworks/GoogleAppMeasurement.framework; sourceTree = "<group>"; };
 		E930C5E774FE390967A842C215EF9F6C /* FIROptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIROptions.h; path = Firebase/Core/Public/FIROptions.h; sourceTree = "<group>"; };
-		E96BE6E0AF98F84ABE8CB9C1CF99EBDF /* Pods-ReadItAloud-tvOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ReadItAloud-tvOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E96BE6E0AF98F84ABE8CB9C1CF99EBDF /* Pods-TheBestApp-tvOSTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TheBestApp-tvOSTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EA0142194C1EB905679758D344061104 /* pb_common.c */ = {isa = PBXFileReference; includeInIndex = 1; path = pb_common.c; sourceTree = "<group>"; };
 		EA72D4200A2BC698EED822EEFCD5600D /* GoogleUtilities.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GoogleUtilities.xcconfig; sourceTree = "<group>"; };
 		EE38D3C4904DF2DDC1F6DB8049D55E96 /* GULLoggerCodes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GULLoggerCodes.h; path = GoogleUtilities/Common/GULLoggerCodes.h; sourceTree = "<group>"; };
 		F2AF935E9492F3F64AD1192E200B22F1 /* FirebaseCoreDiagnostics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseCoreDiagnostics.framework; path = Frameworks/FirebaseCoreDiagnostics.framework; sourceTree = "<group>"; };
-		F309F5D04E6E58F0F7D8FEC17B4E9106 /* Pods-ReadItAloud-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ReadItAloud-dummy.m"; sourceTree = "<group>"; };
+		F309F5D04E6E58F0F7D8FEC17B4E9106 /* Pods-TheBestApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TheBestApp-dummy.m"; sourceTree = "<group>"; };
 		F748448819D618CEA977B51AD8A5D27B /* FIRApp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRApp.h; path = Firebase/Core/Public/FIRApp.h; sourceTree = "<group>"; };
 		F7DE10D72BBCD39032BC569639373752 /* FIROptionsInternal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIROptionsInternal.h; path = Firebase/Core/Private/FIROptionsInternal.h; sourceTree = "<group>"; };
 		F83FD2599078529B1DE261DAEC177535 /* GoogleUtilities-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GoogleUtilities-prefix.pch"; sourceTree = "<group>"; };
@@ -260,7 +260,7 @@
 		FBE66B98CB273BF51171B6A7735EEF44 /* pb.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pb.h; sourceTree = "<group>"; };
 		FC806F50B43BB45553A117206F1B22D6 /* pb_decode.c */ = {isa = PBXFileReference; includeInIndex = 1; path = pb_decode.c; sourceTree = "<group>"; };
 		FD626D54C73A6AAF277139A605D8658D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		FDC5FB891C2DEC48454D0D388C8DDD94 /* Pods-ReadItAloudTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ReadItAloudTests-resources.sh"; sourceTree = "<group>"; };
+		FDC5FB891C2DEC48454D0D388C8DDD94 /* Pods-TheBestAppTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TheBestAppTests-resources.sh"; sourceTree = "<group>"; };
 		FE0B7B4F09656ADD7708B69AE34C0D2B /* FIRBundleUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FIRBundleUtil.m; path = Firebase/Core/FIRBundleUtil.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -392,19 +392,19 @@
 			path = nanopb;
 			sourceTree = "<group>";
 		};
-		4E6D46AE6EFE3A8CE87B72FB92F08447 /* Pods-ReadItAloud-tvOS */ = {
+		4E6D46AE6EFE3A8CE87B72FB92F08447 /* Pods-TheBestApp-tvOS */ = {
 			isa = PBXGroup;
 			children = (
-				2C115957091EF27FFAC62858B3A72583 /* Pods-ReadItAloud-tvOS-acknowledgements.markdown */,
-				72F61F6F264477F905B68E9E537D4F7F /* Pods-ReadItAloud-tvOS-acknowledgements.plist */,
-				996AC27B911B20EFE7367A59D30C6996 /* Pods-ReadItAloud-tvOS-dummy.m */,
-				63089FEAE555EFC0FA64DFC4BEBC84FB /* Pods-ReadItAloud-tvOS-frameworks.sh */,
-				BD5AE5BE930D84DB069E1804402FED94 /* Pods-ReadItAloud-tvOS-resources.sh */,
-				E2D9E481E9D2DA1468171DC945435500 /* Pods-ReadItAloud-tvOS.debug.xcconfig */,
-				B60F039F3114950A56FCB80FCCC6A117 /* Pods-ReadItAloud-tvOS.release.xcconfig */,
+				2C115957091EF27FFAC62858B3A72583 /* Pods-TheBestApp-tvOS-acknowledgements.markdown */,
+				72F61F6F264477F905B68E9E537D4F7F /* Pods-TheBestApp-tvOS-acknowledgements.plist */,
+				996AC27B911B20EFE7367A59D30C6996 /* Pods-TheBestApp-tvOS-dummy.m */,
+				63089FEAE555EFC0FA64DFC4BEBC84FB /* Pods-TheBestApp-tvOS-frameworks.sh */,
+				BD5AE5BE930D84DB069E1804402FED94 /* Pods-TheBestApp-tvOS-resources.sh */,
+				E2D9E481E9D2DA1468171DC945435500 /* Pods-TheBestApp-tvOS.debug.xcconfig */,
+				B60F039F3114950A56FCB80FCCC6A117 /* Pods-TheBestApp-tvOS.release.xcconfig */,
 			);
-			name = "Pods-ReadItAloud-tvOS";
-			path = "Target Support Files/Pods-ReadItAloud-tvOS";
+			name = "Pods-TheBestApp-tvOS";
+			path = "Target Support Files/Pods-TheBestApp-tvOS";
 			sourceTree = "<group>";
 		};
 		502616D5ECA09F4340764EADD7CF9DC5 /* Products */ = {
@@ -413,10 +413,10 @@
 				9D3163E2A2313550931FABBEC260BC49 /* libFirebaseCore.a */,
 				6E79433DE08E480586993BF856C6C77B /* libGoogleUtilities.a */,
 				A4C870F6A26811E90AF142E568C00477 /* libnanopb.a */,
-				AFF19075416641F5852674A7DF252FD4 /* libPods-ReadItAloud.a */,
-				0FF921E84A47CA5CCF88BADFB0D95B3F /* libPods-ReadItAloud-tvOS.a */,
-				DC48645CF00649C2ED2157D70FC292CB /* libPods-ReadItAloud-tvOSTests.a */,
-				3C207D20FE45A482452A7283FCB89646 /* libPods-ReadItAloudTests.a */,
+				AFF19075416641F5852674A7DF252FD4 /* libPods-TheBestApp.a */,
+				0FF921E84A47CA5CCF88BADFB0D95B3F /* libPods-TheBestApp-tvOS.a */,
+				DC48645CF00649C2ED2157D70FC292CB /* libPods-TheBestApp-tvOSTests.a */,
+				3C207D20FE45A482452A7283FCB89646 /* libPods-TheBestAppTests.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -449,34 +449,34 @@
 			name = AppDelegateSwizzler;
 			sourceTree = "<group>";
 		};
-		64CB28630EE4A08AE7A70B1C9A95EB86 /* Pods-ReadItAloud */ = {
+		64CB28630EE4A08AE7A70B1C9A95EB86 /* Pods-TheBestApp */ = {
 			isa = PBXGroup;
 			children = (
-				743303FAAF826E831C82C4EE6C1C87F6 /* Pods-ReadItAloud-acknowledgements.markdown */,
-				411FA6A66A3B94FAFE90425FE0F1E624 /* Pods-ReadItAloud-acknowledgements.plist */,
-				F309F5D04E6E58F0F7D8FEC17B4E9106 /* Pods-ReadItAloud-dummy.m */,
-				CFE8DF80300C3F092C174F1964F67F16 /* Pods-ReadItAloud-frameworks.sh */,
-				A50751807C900705E7716A0AA08666BA /* Pods-ReadItAloud-resources.sh */,
-				BA0A8C0AA005C4A24BCEEB5746CD0B8D /* Pods-ReadItAloud.debug.xcconfig */,
-				128F5480074F9406A6152B41536A6E3A /* Pods-ReadItAloud.release.xcconfig */,
+				743303FAAF826E831C82C4EE6C1C87F6 /* Pods-TheBestApp-acknowledgements.markdown */,
+				411FA6A66A3B94FAFE90425FE0F1E624 /* Pods-TheBestApp-acknowledgements.plist */,
+				F309F5D04E6E58F0F7D8FEC17B4E9106 /* Pods-TheBestApp-dummy.m */,
+				CFE8DF80300C3F092C174F1964F67F16 /* Pods-TheBestApp-frameworks.sh */,
+				A50751807C900705E7716A0AA08666BA /* Pods-TheBestApp-resources.sh */,
+				BA0A8C0AA005C4A24BCEEB5746CD0B8D /* Pods-TheBestApp.debug.xcconfig */,
+				128F5480074F9406A6152B41536A6E3A /* Pods-TheBestApp.release.xcconfig */,
 			);
-			name = "Pods-ReadItAloud";
-			path = "Target Support Files/Pods-ReadItAloud";
+			name = "Pods-TheBestApp";
+			path = "Target Support Files/Pods-TheBestApp";
 			sourceTree = "<group>";
 		};
-		655593C5947DE1BAD60C7376B88A80A4 /* Pods-ReadItAloudTests */ = {
+		655593C5947DE1BAD60C7376B88A80A4 /* Pods-TheBestAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				D492BF01E37848AB781F2FFD271991F3 /* Pods-ReadItAloudTests-acknowledgements.markdown */,
-				5B1C159786029FF087AAB9B084AE7258 /* Pods-ReadItAloudTests-acknowledgements.plist */,
-				B8175ECCCA1C2ECFE799033BE1F245F9 /* Pods-ReadItAloudTests-dummy.m */,
-				23BE9F99B7669813BE8FB160E76535E1 /* Pods-ReadItAloudTests-frameworks.sh */,
-				FDC5FB891C2DEC48454D0D388C8DDD94 /* Pods-ReadItAloudTests-resources.sh */,
-				00A4ECB719F83A9CAAAF8BA7C4728B36 /* Pods-ReadItAloudTests.debug.xcconfig */,
-				3D9724FD78FD34AC3101B595065F3D15 /* Pods-ReadItAloudTests.release.xcconfig */,
+				D492BF01E37848AB781F2FFD271991F3 /* Pods-TheBestAppTests-acknowledgements.markdown */,
+				5B1C159786029FF087AAB9B084AE7258 /* Pods-TheBestAppTests-acknowledgements.plist */,
+				B8175ECCCA1C2ECFE799033BE1F245F9 /* Pods-TheBestAppTests-dummy.m */,
+				23BE9F99B7669813BE8FB160E76535E1 /* Pods-TheBestAppTests-frameworks.sh */,
+				FDC5FB891C2DEC48454D0D388C8DDD94 /* Pods-TheBestAppTests-resources.sh */,
+				00A4ECB719F83A9CAAAF8BA7C4728B36 /* Pods-TheBestAppTests.debug.xcconfig */,
+				3D9724FD78FD34AC3101B595065F3D15 /* Pods-TheBestAppTests.release.xcconfig */,
 			);
-			name = "Pods-ReadItAloudTests";
-			path = "Target Support Files/Pods-ReadItAloudTests";
+			name = "Pods-TheBestAppTests";
+			path = "Target Support Files/Pods-TheBestAppTests";
 			sourceTree = "<group>";
 		};
 		6600BE317CF27258A660E6A04E12B0C6 /* Frameworks */ = {
@@ -508,10 +508,10 @@
 		732E0070CD239EE43EF24B0254A81670 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				64CB28630EE4A08AE7A70B1C9A95EB86 /* Pods-ReadItAloud */,
-				4E6D46AE6EFE3A8CE87B72FB92F08447 /* Pods-ReadItAloud-tvOS */,
-				A69E4917390F7FDA82C0347062818E2D /* Pods-ReadItAloud-tvOSTests */,
-				655593C5947DE1BAD60C7376B88A80A4 /* Pods-ReadItAloudTests */,
+				64CB28630EE4A08AE7A70B1C9A95EB86 /* Pods-TheBestApp */,
+				4E6D46AE6EFE3A8CE87B72FB92F08447 /* Pods-TheBestApp-tvOS */,
+				A69E4917390F7FDA82C0347062818E2D /* Pods-TheBestApp-tvOSTests */,
+				655593C5947DE1BAD60C7376B88A80A4 /* Pods-TheBestAppTests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -570,19 +570,19 @@
 			name = "NSData+zlib";
 			sourceTree = "<group>";
 		};
-		A69E4917390F7FDA82C0347062818E2D /* Pods-ReadItAloud-tvOSTests */ = {
+		A69E4917390F7FDA82C0347062818E2D /* Pods-TheBestApp-tvOSTests */ = {
 			isa = PBXGroup;
 			children = (
-				E96BE6E0AF98F84ABE8CB9C1CF99EBDF /* Pods-ReadItAloud-tvOSTests-acknowledgements.markdown */,
-				91B186F9B0ECA80A78DC2B02E1EF40A5 /* Pods-ReadItAloud-tvOSTests-acknowledgements.plist */,
-				6439F20E100B11C32207AFD0DDE3B728 /* Pods-ReadItAloud-tvOSTests-dummy.m */,
-				1F7A9CF3A3C06C52453287413E78B174 /* Pods-ReadItAloud-tvOSTests-frameworks.sh */,
-				1B7B88AE3D522789E621413EFC3B8EB8 /* Pods-ReadItAloud-tvOSTests-resources.sh */,
-				58E99CA04CFACDB1286A452FDBFCFCDA /* Pods-ReadItAloud-tvOSTests.debug.xcconfig */,
-				A86D242044750AE775DADB5F10B60F8E /* Pods-ReadItAloud-tvOSTests.release.xcconfig */,
+				E96BE6E0AF98F84ABE8CB9C1CF99EBDF /* Pods-TheBestApp-tvOSTests-acknowledgements.markdown */,
+				91B186F9B0ECA80A78DC2B02E1EF40A5 /* Pods-TheBestApp-tvOSTests-acknowledgements.plist */,
+				6439F20E100B11C32207AFD0DDE3B728 /* Pods-TheBestApp-tvOSTests-dummy.m */,
+				1F7A9CF3A3C06C52453287413E78B174 /* Pods-TheBestApp-tvOSTests-frameworks.sh */,
+				1B7B88AE3D522789E621413EFC3B8EB8 /* Pods-TheBestApp-tvOSTests-resources.sh */,
+				58E99CA04CFACDB1286A452FDBFCFCDA /* Pods-TheBestApp-tvOSTests.debug.xcconfig */,
+				A86D242044750AE775DADB5F10B60F8E /* Pods-TheBestApp-tvOSTests.release.xcconfig */,
 			);
-			name = "Pods-ReadItAloud-tvOSTests";
-			path = "Target Support Files/Pods-ReadItAloud-tvOSTests";
+			name = "Pods-TheBestApp-tvOSTests";
+			path = "Target Support Files/Pods-TheBestApp-tvOSTests";
 			sourceTree = "<group>";
 		};
 		ABFE0EDD7BF8D32DA3902AFA9F4418E6 /* Logger */ = {
@@ -829,9 +829,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		268D9DA85A19663FB31E81D28A356995 /* Pods-ReadItAloud-tvOS */ = {
+		268D9DA85A19663FB31E81D28A356995 /* Pods-TheBestApp-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EEC2480A6B5CF2C89E61D5F35C0052E4 /* Build configuration list for PBXNativeTarget "Pods-ReadItAloud-tvOS" */;
+			buildConfigurationList = EEC2480A6B5CF2C89E61D5F35C0052E4 /* Build configuration list for PBXNativeTarget "Pods-TheBestApp-tvOS" */;
 			buildPhases = (
 				C4FAD8964A13B46AC2D1E9B1B9ED7509 /* Headers */,
 				716065587DEEED2E35F00C5586ADD785 /* Sources */,
@@ -841,14 +841,14 @@
 			);
 			dependencies = (
 			);
-			name = "Pods-ReadItAloud-tvOS";
-			productName = "Pods-ReadItAloud-tvOS";
-			productReference = 0FF921E84A47CA5CCF88BADFB0D95B3F /* libPods-ReadItAloud-tvOS.a */;
+			name = "Pods-TheBestApp-tvOS";
+			productName = "Pods-TheBestApp-tvOS";
+			productReference = 0FF921E84A47CA5CCF88BADFB0D95B3F /* libPods-TheBestApp-tvOS.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		27D750844692DA61B03C296C5A30FD97 /* Pods-ReadItAloudTests */ = {
+		27D750844692DA61B03C296C5A30FD97 /* Pods-TheBestAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5FC74BE0144FB3DD8344064B4530EEFC /* Build configuration list for PBXNativeTarget "Pods-ReadItAloudTests" */;
+			buildConfigurationList = 5FC74BE0144FB3DD8344064B4530EEFC /* Build configuration list for PBXNativeTarget "Pods-TheBestAppTests" */;
 			buildPhases = (
 				3E97BC52873B90812AE7BE493E7945B6 /* Headers */,
 				214A3AB5BC130C4F607572DE824D421D /* Sources */,
@@ -859,14 +859,14 @@
 			dependencies = (
 				DD8A33DD789AB6FF9AEC0990072B847E /* PBXTargetDependency */,
 			);
-			name = "Pods-ReadItAloudTests";
-			productName = "Pods-ReadItAloudTests";
-			productReference = 3C207D20FE45A482452A7283FCB89646 /* libPods-ReadItAloudTests.a */;
+			name = "Pods-TheBestAppTests";
+			productName = "Pods-TheBestAppTests";
+			productReference = 3C207D20FE45A482452A7283FCB89646 /* libPods-TheBestAppTests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		2CF9A7712E4E46B1D1879B37546F707D /* Pods-ReadItAloud-tvOSTests */ = {
+		2CF9A7712E4E46B1D1879B37546F707D /* Pods-TheBestApp-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4CC36FC2E2A654C62C3FAB67B2406342 /* Build configuration list for PBXNativeTarget "Pods-ReadItAloud-tvOSTests" */;
+			buildConfigurationList = 4CC36FC2E2A654C62C3FAB67B2406342 /* Build configuration list for PBXNativeTarget "Pods-TheBestApp-tvOSTests" */;
 			buildPhases = (
 				13771C83DDF0E92D2FDBEEC7C4B7737A /* Headers */,
 				A811916E2A886FA0D686D7D076C7C500 /* Sources */,
@@ -877,14 +877,14 @@
 			dependencies = (
 				09C0D4B90B0C4BDF6F1E9574A73876E4 /* PBXTargetDependency */,
 			);
-			name = "Pods-ReadItAloud-tvOSTests";
-			productName = "Pods-ReadItAloud-tvOSTests";
-			productReference = DC48645CF00649C2ED2157D70FC292CB /* libPods-ReadItAloud-tvOSTests.a */;
+			name = "Pods-TheBestApp-tvOSTests";
+			productName = "Pods-TheBestApp-tvOSTests";
+			productReference = DC48645CF00649C2ED2157D70FC292CB /* libPods-TheBestApp-tvOSTests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		A8A4711264C2D26F3C492A1AE62BB3EB /* Pods-ReadItAloud */ = {
+		A8A4711264C2D26F3C492A1AE62BB3EB /* Pods-TheBestApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 980D7E135AAB120E648F19F670C588F8 /* Build configuration list for PBXNativeTarget "Pods-ReadItAloud" */;
+			buildConfigurationList = 980D7E135AAB120E648F19F670C588F8 /* Build configuration list for PBXNativeTarget "Pods-TheBestApp" */;
 			buildPhases = (
 				12E3A654EF47362B37B71EEB7F14C273 /* Headers */,
 				6EBD6995DC993976ACEA998371E7A34C /* Sources */,
@@ -897,9 +897,9 @@
 				CD890EC7B2385D8F74ABDDCBB6A92109 /* PBXTargetDependency */,
 				0C101A296BDEECEBFFFE5760F0570157 /* PBXTargetDependency */,
 			);
-			name = "Pods-ReadItAloud";
-			productName = "Pods-ReadItAloud";
-			productReference = AFF19075416641F5852674A7DF252FD4 /* libPods-ReadItAloud.a */;
+			name = "Pods-TheBestApp";
+			productName = "Pods-TheBestApp";
+			productReference = AFF19075416641F5852674A7DF252FD4 /* libPods-TheBestApp.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 		CBFBECAFEDE7DECB2CB06ED19ED8312B /* GoogleUtilities */ = {
@@ -978,10 +978,10 @@
 				F1438AEC53CA54109733DA535FB683BE /* FirebaseCore */,
 				CBFBECAFEDE7DECB2CB06ED19ED8312B /* GoogleUtilities */,
 				EE8404B208ADF08E7DFB36AF48FB3CC8 /* nanopb */,
-				A8A4711264C2D26F3C492A1AE62BB3EB /* Pods-ReadItAloud */,
-				268D9DA85A19663FB31E81D28A356995 /* Pods-ReadItAloud-tvOS */,
-				2CF9A7712E4E46B1D1879B37546F707D /* Pods-ReadItAloud-tvOSTests */,
-				27D750844692DA61B03C296C5A30FD97 /* Pods-ReadItAloudTests */,
+				A8A4711264C2D26F3C492A1AE62BB3EB /* Pods-TheBestApp */,
+				268D9DA85A19663FB31E81D28A356995 /* Pods-TheBestApp-tvOS */,
+				2CF9A7712E4E46B1D1879B37546F707D /* Pods-TheBestApp-tvOSTests */,
+				27D750844692DA61B03C296C5A30FD97 /* Pods-TheBestAppTests */,
 			);
 		};
 /* End PBXProject section */
@@ -991,7 +991,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B4E0010D1FE62A790DDE7A8234F4AB6 /* Pods-ReadItAloudTests-dummy.m in Sources */,
+				8B4E0010D1FE62A790DDE7A8234F4AB6 /* Pods-TheBestAppTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1029,7 +1029,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				070AE11FEC3A8A75FAE289C0CAE3B3FA /* Pods-ReadItAloud-dummy.m in Sources */,
+				070AE11FEC3A8A75FAE289C0CAE3B3FA /* Pods-TheBestApp-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1037,7 +1037,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D75D704E60479CC48D6199EE6DF96D5 /* Pods-ReadItAloud-tvOS-dummy.m in Sources */,
+				4D75D704E60479CC48D6199EE6DF96D5 /* Pods-TheBestApp-tvOS-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1045,7 +1045,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72168434125743D61C31043B7ED1B4DF /* Pods-ReadItAloud-tvOSTests-dummy.m in Sources */,
+				72168434125743D61C31043B7ED1B4DF /* Pods-TheBestApp-tvOSTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1075,8 +1075,8 @@
 /* Begin PBXTargetDependency section */
 		09C0D4B90B0C4BDF6F1E9574A73876E4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Pods-ReadItAloud-tvOS";
-			target = 268D9DA85A19663FB31E81D28A356995 /* Pods-ReadItAloud-tvOS */;
+			name = "Pods-TheBestApp-tvOS";
+			target = 268D9DA85A19663FB31E81D28A356995 /* Pods-TheBestApp-tvOS */;
 			targetProxy = 56E186CDF25CADEA1BAE5E85581FD76A /* PBXContainerItemProxy */;
 		};
 		0C101A296BDEECEBFFFE5760F0570157 /* PBXTargetDependency */ = {
@@ -1099,8 +1099,8 @@
 		};
 		DD8A33DD789AB6FF9AEC0990072B847E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Pods-ReadItAloud";
-			target = A8A4711264C2D26F3C492A1AE62BB3EB /* Pods-ReadItAloud */;
+			name = "Pods-TheBestApp";
+			target = A8A4711264C2D26F3C492A1AE62BB3EB /* Pods-TheBestApp */;
 			targetProxy = D0D94031225FD4117656A9D7F84909C9 /* PBXContainerItemProxy */;
 		};
 		FF0DDDBFA517F28DEDC54FBB0FDFE66F /* PBXTargetDependency */ = {
@@ -1160,7 +1160,7 @@
 		};
 		437506C02683808E4B823F47A4C7AB26 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A86D242044750AE775DADB5F10B60F8E /* Pods-ReadItAloud-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = A86D242044750AE775DADB5F10B60F8E /* Pods-TheBestApp-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1181,7 +1181,7 @@
 		};
 		4FA91DF854971DA88281F2172CB09D45 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 58E99CA04CFACDB1286A452FDBFCFCDA /* Pods-ReadItAloud-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 58E99CA04CFACDB1286A452FDBFCFCDA /* Pods-TheBestApp-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1225,7 +1225,7 @@
 		};
 		6738AD2AE1F2A4824DDBA59E1205F163 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E2D9E481E9D2DA1468171DC945435500 /* Pods-ReadItAloud-tvOS.debug.xcconfig */;
+			baseConfigurationReference = E2D9E481E9D2DA1468171DC945435500 /* Pods-TheBestApp-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1293,7 +1293,7 @@
 		};
 		8B451B87BC5B91CCEAB5A93D92E82665 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BA0A8C0AA005C4A24BCEEB5746CD0B8D /* Pods-ReadItAloud.debug.xcconfig */;
+			baseConfigurationReference = BA0A8C0AA005C4A24BCEEB5746CD0B8D /* Pods-TheBestApp.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1337,7 +1337,7 @@
 		};
 		A0BD4C12495C54C3DA1D13ED661A43E2 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 128F5480074F9406A6152B41536A6E3A /* Pods-ReadItAloud.release.xcconfig */;
+			baseConfigurationReference = 128F5480074F9406A6152B41536A6E3A /* Pods-TheBestApp.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1359,7 +1359,7 @@
 		};
 		A1EDB9DDDAC9A0BDF2D5999143336D65 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B60F039F3114950A56FCB80FCCC6A117 /* Pods-ReadItAloud-tvOS.release.xcconfig */;
+			baseConfigurationReference = B60F039F3114950A56FCB80FCCC6A117 /* Pods-TheBestApp-tvOS.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1380,7 +1380,7 @@
 		};
 		B4219EFA7316B72A5CF98A5F4694D57C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3D9724FD78FD34AC3101B595065F3D15 /* Pods-ReadItAloudTests.release.xcconfig */;
+			baseConfigurationReference = 3D9724FD78FD34AC3101B595065F3D15 /* Pods-TheBestAppTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1402,7 +1402,7 @@
 		};
 		D093016D868D73B5C9610D2588026956 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 00A4ECB719F83A9CAAAF8BA7C4728B36 /* Pods-ReadItAloudTests.debug.xcconfig */;
+			baseConfigurationReference = 00A4ECB719F83A9CAAAF8BA7C4728B36 /* Pods-TheBestAppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1581,7 +1581,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4CC36FC2E2A654C62C3FAB67B2406342 /* Build configuration list for PBXNativeTarget "Pods-ReadItAloud-tvOSTests" */ = {
+		4CC36FC2E2A654C62C3FAB67B2406342 /* Build configuration list for PBXNativeTarget "Pods-TheBestApp-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4FA91DF854971DA88281F2172CB09D45 /* Debug */,
@@ -1590,7 +1590,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5FC74BE0144FB3DD8344064B4530EEFC /* Build configuration list for PBXNativeTarget "Pods-ReadItAloudTests" */ = {
+		5FC74BE0144FB3DD8344064B4530EEFC /* Build configuration list for PBXNativeTarget "Pods-TheBestAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D093016D868D73B5C9610D2588026956 /* Debug */,
@@ -1599,7 +1599,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		980D7E135AAB120E648F19F670C588F8 /* Build configuration list for PBXNativeTarget "Pods-ReadItAloud" */ = {
+		980D7E135AAB120E648F19F670C588F8 /* Build configuration list for PBXNativeTarget "Pods-TheBestApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8B451B87BC5B91CCEAB5A93D92E82665 /* Debug */,
@@ -1617,7 +1617,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EEC2480A6B5CF2C89E61D5F35C0052E4 /* Build configuration list for PBXNativeTarget "Pods-ReadItAloud-tvOS" */ = {
+		EEC2480A6B5CF2C89E61D5F35C0052E4 /* Build configuration list for PBXNativeTarget "Pods-TheBestApp-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6738AD2AE1F2A4824DDBA59E1205F163 /* Debug */,
